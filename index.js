@@ -7,7 +7,6 @@ const store={
         street:`Haharina ave`,
         houseNumber:13,
     }
-
 };
 store['clients']={
     NataliiaKulybina:{
