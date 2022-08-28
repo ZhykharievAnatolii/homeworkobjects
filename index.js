@@ -5,7 +5,7 @@ const store={
         country:`Ukraine`,
         city:`Kyiv`,
         street:`Haharina ave`,
-        houseNumber:13
+        houseNumber:13,
     }
 
 };
